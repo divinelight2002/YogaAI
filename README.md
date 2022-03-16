@@ -20,13 +20,13 @@ Link to website: <a href="divinelight2002.github.io/yogaai/" target="_blank" tit
 
 ![YogaAI](https://user-images.githubusercontent.com/62070358/84757963-bbeff880-afbc-11ea-9203-fe945a4cd09c.png)
 
-## Technical Details 🔧
-## Tech Stack :
-   Html
-   Css
-   Javascript
-   Pose.Net
-   Machine Learning
+# Technical Details 🔧
+### Tech Stack : 
+-   Html
+-   Css
+-   Javascript
+-   Pose.Net
+-   Machine Learning
 
 ### Icons used:
 
