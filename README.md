@@ -16,7 +16,7 @@ I created YogaAI inspired by various Machine Learning models for visual recognit
     a JavaScript library for Machine Learning on the browser. Most of my learning was following <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y" target="_blank">
     The Coding Train’s</a> YouTube playlist on Pose Estimation. <br>
 
-Link to website: <a href="divinelight2002.github.io/yogaai/" target="_blank" title="yogAI">yogAI</a> 
+Link to website: <a href="divinelight2002.github.io/yogaai/" target="_blank" title="yogAI">YogaAI</a> 
 
 ![yogaAI](https://user-images.githubusercontent.com/62070358/84757963-bbeff880-afbc-11ea-9203-fe945a4cd09c.png)
 
