@@ -18,7 +18,7 @@ I created YogaAI inspired by various Machine Learning models for visual recognit
 
 Link to website: <a href="divinelight2002.github.io/yogaai/" target="_blank" title="yogAI">YogaAI</a> 
 
-![YogaAI](https://user-images.githubusercontent.com/62070358/84757963-bbeff880-afbc-11ea-9203-fe945a4cd09c.png)
+![YogaAI](https://github.com/divinelight2002/YogaAI/blob/main/Yoga%20AI%20Medium.jpeg)
 
 # Technical Details 🔧
 ### Tech Stack : 
