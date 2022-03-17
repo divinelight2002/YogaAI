@@ -1,4 +1,4 @@
-# <a href="divinelight2002.github.io/yogaai/" target="_blank" title="YogaAI">YogaAI Webapp</a> 
+# <a href="divinelight2002.github.io/yogaai/" target="_blank" title="YogaAI">YogaAI Website</a> 
 
 ### Hey there! Welcome (Namaste) to yogAI, developed in 2022 by Divyata Gosai.
 I created YogaAI inspired by various Machine Learning models for visual recognition for 
