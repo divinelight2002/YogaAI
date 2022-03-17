@@ -2,7 +2,7 @@
 
 ### Hey there! Welcome (Namaste) to yogAI, developed in 2022 by Divyata Gosai.
 
-    I created YogaAI inspired by various Machine Learning models for visual recognition for 
+I created YogaAI inspired by various Machine Learning models for visual recognition for 
     my <a href="https://nexus.uwinnipeg.ca/d2l/home/42287" target="_blank">course (The Philosophy of Yoga)</a> as my creative project assignment .
     This is my first project with Machine Learning model and attempt at Web Development. 
     <br><br>
