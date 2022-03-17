@@ -27,6 +27,7 @@ Link to website: <a href="divinelight2002.github.io/yogaai/" target="_blank" tit
 -   Javascript
 -   Pose.Net
 -   Machine Learning
+-   Artificial intelligence
 
 ### Icons used:
 
